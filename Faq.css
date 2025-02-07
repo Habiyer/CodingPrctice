@@ -1,0 +1,30 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px 0 10px 0;
+}
+p{
+  margin:30px 0 30px 0;
+}
+a{
+  text-decoration: none;
+  color: #4E80EE;
+}
+
+.header-container{
+  padding:20px 0 20px 0;
+  text-align: center;
+}
+.question-container{
+  padding: 20px 0 15px 20%;
+  text-align:left;
+  background-color: #F8FAFC;
+}
+#question-container1{
+  border-style: solid;
+  border-width:0 0 2px 0;
+  border-color: #D2D5DA;
+}
+.questions{
+  padding: 10px 20px 20px 20px;
+  width: 75%;
+}
